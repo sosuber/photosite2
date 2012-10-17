@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Numans', sans-serif;
+}
+
+.links {
+    font-family: 'Numans', sans-serif;
+    margin-top: 5em;
+}
+
+.nav h6 {
+	display:inline;
+	margin-right: 3em;
+}
+
+.images {
+	margin-top: 3em;
+	margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+
+li {
+	margin-top: 2em;
+}
+
+ul {
+	list-style-type: none; 
+}
