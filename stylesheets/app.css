@@ -1,5 +1,7 @@
 h2 {
     font-family: 'Cagliostro', sans-serif;
+    margin-top: 2em;
+    background-color: grey 
 }
 
 .links {
@@ -38,8 +40,8 @@ ul {
 }
 
 body {
-	background: #00f url('../images/backgroundimage.png');
+	background: url('images/photos/websitebackground.jpg');
 } 
 a:hover {
-	color:blue;
+	color:grey;
 }
