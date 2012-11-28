@@ -1,11 +1,19 @@
-h2 {
-    font-family: 'Cagliostro', sans-serif;
-    margin-top: 2em;
-    background-color: grey 
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 1em; 
+    color: white;
+    margin-right: 1em;
+}
+
+h4 {
+  font-family: 'Quicksand', sans-serif;
+  color:white;
+  padding-top:20px;
+
 }
 
 .links {
-    font-family: 'Cagliostro', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin-top: 1em;
 }
 
@@ -13,35 +21,30 @@ h2 {
 	display:inline;
 	margin-right: 3em;
 }
-.middlepicture {
 
-  -webkit-border-radius: 4px;
-          border-radius: 4px;
-
- 
-  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
-
-}
 
 .images {
 	margin: 2em auto 0 auto;
-
-
-
-    width: 6em;
+  width: 6em;
 }
-
-li {
-	margin-top: 1em;
-}
-
-ul {
-	list-style-type: none; 
+.middleimage {
+  padding-left: 40px;
 }
 
 body {
-	background: url('images/photos/websitebackground.jpg');
+	background: black; 
 } 
 a:hover {
 	color:grey;
+}
+
+a {
+  padding-right:30px;
+  color:white;
+}
+
+p {
+  padding-top:50px;
+  color:white;
+
 }
