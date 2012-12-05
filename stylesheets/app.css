@@ -5,6 +5,12 @@ h1 {
     margin-right: 1em;
 }
 
+h3{
+  font-family: 'Quicksand', sans-serif;
+  color:white;
+  padding-top:20px;
+}
+
 h4 {
   font-family: 'Quicksand', sans-serif;
   color:white;
@@ -46,5 +52,6 @@ a {
 p {
   padding-top:50px;
   color:white;
+  font-family: 'Quicksand', sans-serif;
 
 }
